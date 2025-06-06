@@ -4,4 +4,4 @@ export default function Project() {
             <h1>Project</h1>
         </div>
     );
-} 
+}
